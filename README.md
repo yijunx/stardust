@@ -14,6 +14,6 @@ let's try to get familiar with GitHub from your first pull request...
 
 what about us
 
-ALL of us are the owners of this project. Thus, please feel strongly that you want to do this, otherwise it will become a burden. Hopefully it is worthy of our time and we can help others with whatever knowledge we have.
+ALL of us are the owners of this project. Thus, please feel strongly that you want to do this, otherwise it will become a burden. Hopefully it is worthy of our time and we can help others with whatever knowledge we have. Also, all of us are loke stem cells, each of us may evolve to take some sectors. only some (or even) none of us will be code writers. 
 
 
