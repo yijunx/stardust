@@ -3,7 +3,7 @@ a web based tool to:
   1. structure data
   2. link up and visualize data 
   3. provide suggestions to help decision making
-  4. for various manufacturing environments
+  for various manufacturing environments
 
 block wise service
 blocks include
