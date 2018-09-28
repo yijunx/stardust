@@ -10,6 +10,7 @@ blocks include
   1. capacity planning
   2. capex planning
   3. fab optimization
+  4. revenue optimization
   
 target group:
   1. target those manufacturers without planning tools or with out-dated / notcentralized planning tools
