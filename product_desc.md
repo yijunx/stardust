@@ -1,9 +1,9 @@
 
 a web based tool to:
-  structure data
-  link up and visualize data 
-  provide suggestions to help decision making
-  for various manufacturing environments
+  1. structure data
+  2. link up and visualize data 
+  3. provide suggestions to help decision making
+  4. for various manufacturing environments
 
 block wise service
 blocks include
@@ -12,8 +12,8 @@ blocks include
   3. fab optimization
   
 target group:
-target those manufacturers without planning tools or with out-dated / notcentralized planning tools
-target classrooms
+  1. target those manufacturers without planning tools or with out-dated / notcentralized planning tools
+  2. target classrooms
 
 distribution:
 web service, charge based on model complexity and blocks
