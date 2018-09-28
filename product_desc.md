@@ -17,6 +17,7 @@ target group:
   2. target classrooms
 
 distribution:
-web service, charge based on model complexity and blocks
-easy modification to suit different sectors of the industry
-distribution with python coaching
+  1. web service
+  2. charge based on model complexity and blocks
+  3. modification to suit different sectors of the industry
+  4. distribution with python coaching / user training
