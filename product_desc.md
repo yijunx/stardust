@@ -18,6 +18,6 @@ target group:
 
 distribution:
   1. web service
-  2. charge based on model complexity and blocks
+  2. charge based on model complexity and blocks / charge based on pecularity (how special is such modification)
   3. modification to suit different sectors of the industry
   4. distribution with python coaching / user training
